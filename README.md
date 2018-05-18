@@ -2,7 +2,7 @@
 Generates key-pair: public (address) and private key (secret).
 
 Run the code on github:
-https://topavanta.github.io/ripple-addres/
+https://topavanta.github.io/ripple-address/
 
 Or download and run locally (works offline in your browser).
 
